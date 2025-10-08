@@ -1,4 +1,8 @@
 {
-  "91f4a5b78d134ef0b4af983a839d5c99": { "status": "active", "notes": "dev key" },
-  "f2c1d0e3b4a56f78a9b0c1d2e3f45678": { "status": "banned", "notes": "revoked" }
+  "radVCmEIMePpFeitxtouMtk8jTmBM81OsCFn9qU4ZOcdAAEBW9DTKVNCi_NoKMm-": {
+    "status": "active",
+    "fingerprint": "sha256:c85687468c4a34010cc4981e5585227ed1787b3fe05112c42227b4850a5b6b5f",
+    "expires_at": "2025-12-01T00:00:00Z",
+    "notes": "Abbasi's laptop"
+  }
 }
