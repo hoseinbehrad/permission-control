@@ -1,38 +1,32 @@
 {
-  "5iJvDRwP5DJ7DsiJDG7nWjFCa4J1xjRlda3dUq53PMAAmn6rNqogRDm4lxCXtmGg": {
-    "status": "active",
-    "fingerprint": "sha256:c85687468c4a34010cc4981e5585227ed1787b3fe05112c42227b4850a5b6b5f",
-    "expires_at": "2025-12-01T00:00:00Z",
-    "notes": "Abbasi's laptop"
-  },
-
-
-  
-  "5iJvDRwP5DJ7DsiJDG7nWjFCa4J1xjRlda3dUq53PMAAmn6rNqogRDm4lxCXtmGg": {
-    "status": "active",
-    "fingerprint": "sha256:d0754ed7a26b3aabf40131f500451d19484e73b5580350bdeb0da87b6e9eecb6",
-    "expires_at": "2025-12-01T00:00:00Z",
-    "notes": "Hosein's laptop"
-  },
-  "ADMIN": {
-    "status": "active",
-    "fingerprint": "sha256:d0754ed7a26b3aabf40131f500451d19484e73b5580350bdeb0da87b6e9eecb6",
-    "expires_at": "2025-12-01T00:00:00Z",
-    "notes": "Hosein's laptop"
-  },
-
-
-  
-  "5iJvDRwP5DJ7DsiJDG7nWjFCa4J1xjRlda3dUq53PMAAmn6rNqogRDm4lxCXtmGg": {
-    "status": "active",
-    "fingerprint": "sha256:c85687468c4a34010cc4981e5585227ed1787b3fe05112c42227b4850a5b6b5f",
-    "expires_at": "2025-12-01T00:00:00Z",
-    "notes": "Site's PC"
-  },
-  "ADMIN": {
-    "status": "active",
-    "fingerprint": "sha256:c85687468c4a34010cc4981e5585227ed1787b3fe05112c42227b4850a5b6b5f",
-    "expires_at": "2025-12-01T00:00:00Z",
-    "notes": "Site's PC"
-  },
+  "keys": [
+    {
+      "id": "5iJvDRwP5DJ7DsiJDG7nWjFCa4J1xjRlda3dUq53PMAAmn6rNqogRDm4lxCXtmGg",
+      "status": "active",
+      "fingerprint": "sha256:c85687468c4a34010cc4981e5585227ed1787b3fe05112c42227b4850a5b6b5f",
+      "expires_at": "2025-12-01T00:00:00Z",
+      "notes": "Abbasi's laptop"
+    },
+    {
+      "id": "5iJvDRwP5DJ7DsiJDG7nWjFCa4J1xjRlda3dUq53PMAAmn6rNqogRDm4lxCXtmGg",
+      "status": "active",
+      "fingerprint": "sha256:d0754ed7a26b3aabf40131f500451d19484e73b5580350bdeb0da87b6e9eecb6",
+      "expires_at": "2025-12-01T00:00:00Z",
+      "notes": "Hosein's laptop"
+    },
+    {
+      "id": "ADMIN",
+      "status": "active",
+      "fingerprint": "sha256:d0754ed7a26b3aabf40131f500451d19484e73b5580350bdeb0da87b6e9eecb6",
+      "expires_at": "2025-12-01T00:00:00Z",
+      "notes": "Hosein's laptop"
+    },
+    {
+      "id": "ADMIN",
+      "status": "active",
+      "fingerprint": "sha256:c85687468c4a34010cc4981e5585227ed1787b3fe05112c42227b4850a5b6b5f",
+      "expires_at": "2025-12-01T00:00:00Z",
+      "notes": "Site's PC"
+    }
+  ]
 }
