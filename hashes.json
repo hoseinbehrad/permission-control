@@ -2,10 +2,17 @@
   "keys": [
     {
       "id": "5iJvDRwP5DJ7DsiJDG7nWjFCa4J1xjRlda3dUq53PMAAmn6rNqogRDm4lxCXtmGg",
-      "status": "active",
+      "status": "denied",
       "fingerprint": "sha256:25814137702cd2438f4eb0a1c89dbdc6375f6858b63487a0791dc078e3a0546d",
       "expires_at": "2025-12-01T00:00:00Z",
       "notes": "Abbasi's laptop"
+    },
+    {
+      "id": "k_5af-TjWOaeDBM_pfZN2HujX5m6PWPOZ5jFx8WCNiWmYPCY927-R1Y_4lt6k6T0",
+      "status": "active",
+      "fingerprint": "sha256:1429c0b2d1b5f3ffb7335f7361e68a147827547b11701bb1c710e0ca13c51fb5",
+      "expires_at": "2026-12-01T00:00:00Z",
+      "notes": "Abbasi's VM"
     },
     {
       "id": "pS8zHpNJxX1_ZpRxePJHf95eQv4eX60ogTsGDX5u1XeycKOrDQX8-D0pV3whdVqZ",
